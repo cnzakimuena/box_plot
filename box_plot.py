@@ -128,7 +128,7 @@ def generate_plot(df,
         # ax.spines['right'].set_visible(False)
         # ax.spines['top'].set_visible(False)
 
-        # only show ticks on the left spines
+        # only show ticks on the left spine
         ax.get_yaxis().tick_left()
         # ax.get_xaxis().tick_bottom()
 
