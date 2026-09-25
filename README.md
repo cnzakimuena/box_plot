@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python box_plot.py
+python plot_box.py
 ```
 
 <p align="center">
